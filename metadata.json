@@ -1,0 +1,6 @@
+{
+  "name": "Monish - Developer Portfolio & Student Goods Platform",
+  "description": "Portfolio of Monish, Computer Science student at REVA University. Developer of CampusMart, an online platform for affordable student goods (electronics, clothes, and supplies).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
